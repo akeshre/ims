@@ -1,0 +1,696 @@
+# Copyright (C) 2024 OceanWP
+# This file is distributed under the same license as the Ocean Popup Login plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Popup Login 2.1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-popup-login\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-20T06:34:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ocean-popup-login\n"
+
+#. Plugin Name of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-popup-login/ocean-popup-login.php
+msgid "Ocean Popup Login"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-popup-login/ocean-popup-login.php
+msgid "https://oceanwp.org/extension/ocean-popup-login/"
+msgstr ""
+
+#. Description of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-popup-login/ocean-popup-login.php
+msgid "Add user login, registration and lost password forms as a popup to your website. Simple, effective and out of the box solution."
+msgstr ""
+
+#. Author of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-popup-login/ocean-popup-login.php
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:/laragon/www/rc-owp/wp-content/plugins/ocean-popup-login/ocean-popup-login.php
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: ocean-popup-login.php:224
+#: ocean-popup-login.php:226
+#: ocean-popup-login.php:228
+#: ocean-popup-login.php:470
+#: template/popup.php:34
+msgid "Log in"
+msgstr ""
+
+#: ocean-popup-login.php:225
+#: ocean-popup-login.php:227
+#: ocean-popup-login.php:229
+#: ocean-popup-login.php:495
+#: template/popup.php:36
+msgid "Become a part of our community!"
+msgstr ""
+
+#: ocean-popup-login.php:293
+#: ocean-popup-login.php:3503
+msgid "Popup Login"
+msgstr ""
+
+#: ocean-popup-login.php:315
+msgid "Position"
+msgstr ""
+
+#: ocean-popup-login.php:316
+msgid "If you choose Manual, check this documentation: https://docs.oceanwp.org/article/499-how-to-show-popup-login-link"
+msgstr ""
+
+#: ocean-popup-login.php:321
+msgid "Menu"
+msgstr ""
+
+#: ocean-popup-login.php:322
+msgid "Manual"
+msgstr ""
+
+#: ocean-popup-login.php:342
+msgid "Logged In"
+msgstr ""
+
+#: ocean-popup-login.php:343
+msgid "Display this when user logged in."
+msgstr ""
+
+#: ocean-popup-login.php:348
+msgid "Display nothing"
+msgstr ""
+
+#: ocean-popup-login.php:349
+msgid "Logout link"
+msgstr ""
+
+#: ocean-popup-login.php:350
+msgid "Custom"
+msgstr ""
+
+#: ocean-popup-login.php:370
+msgid "Custom Text"
+msgstr ""
+
+#: ocean-popup-login.php:384
+#: ocean-popup-login.php:2154
+#: ocean-popup-login.php:2203
+#: ocean-popup-login.php:3075
+msgid "Sign in / Join"
+msgstr ""
+
+#: ocean-popup-login.php:393
+msgid "Login Text"
+msgstr ""
+
+#: ocean-popup-login.php:406
+#: ocean-popup-login.php:2156
+#: ocean-popup-login.php:2204
+#: ocean-popup-login.php:3076
+msgid "Logout"
+msgstr ""
+
+#: ocean-popup-login.php:414
+msgid "Logout Text"
+msgstr ""
+
+#: ocean-popup-login.php:435
+msgid "Logout URL"
+msgstr ""
+
+#: ocean-popup-login.php:457
+msgid "Login Form"
+msgstr ""
+
+#: ocean-popup-login.php:481
+#: ocean-popup-login.php:602
+#: ocean-popup-login.php:1223
+msgid "Title"
+msgstr ""
+
+#: ocean-popup-login.php:506
+#: ocean-popup-login.php:627
+#: ocean-popup-login.php:1248
+msgid "Content"
+msgstr ""
+
+#: ocean-popup-login.php:530
+msgid "Redirect After Login"
+msgstr ""
+
+#: ocean-popup-login.php:531
+msgid "Add your URL here if you want to redirect after login."
+msgstr ""
+
+#: ocean-popup-login.php:555
+msgid "Hide the Remember Me option?"
+msgstr ""
+
+#: ocean-popup-login.php:578
+msgid "Register Form"
+msgstr ""
+
+#: ocean-popup-login.php:591
+#: template/popup.php:38
+msgid "Create an account"
+msgstr ""
+
+#: ocean-popup-login.php:616
+#: template/popup.php:40
+msgid "Welcome! Register for an account"
+msgstr ""
+
+#: ocean-popup-login.php:654
+msgid "User agreement prompt"
+msgstr ""
+
+#: ocean-popup-login.php:656
+msgid "If Require Agreement is checked, new users will be required to check an agreement box in order to complete their registration"
+msgstr ""
+
+#: ocean-popup-login.php:657
+msgid "Please publish the Privacy Policy (see Settings -> Privacy) to enable this feature."
+msgstr ""
+
+#: ocean-popup-login.php:681
+msgid "Require agreement"
+msgstr ""
+
+#: ocean-popup-login.php:705
+msgid "Redirect After Registration"
+msgstr ""
+
+#: ocean-popup-login.php:706
+msgid "Add your URL here if you want to redirect after registration."
+msgstr ""
+
+#: ocean-popup-login.php:729
+msgid "Username Security Options"
+msgstr ""
+
+#: ocean-popup-login.php:752
+msgid "User username enable limit"
+msgstr ""
+
+#: ocean-popup-login.php:774
+msgid "Min username length"
+msgstr ""
+
+#: ocean-popup-login.php:802
+msgid "Max username length"
+msgstr ""
+
+#: ocean-popup-login.php:832
+msgid "User username forbid spaces"
+msgstr ""
+
+#: ocean-popup-login.php:855
+msgid "Forbidden words for username"
+msgstr ""
+
+#: ocean-popup-login.php:856
+msgid "Separate with comma only. Do not use spaces. Example: admin,administrator,webmaster"
+msgstr ""
+
+#: ocean-popup-login.php:879
+msgid "Security Method"
+msgstr ""
+
+#: ocean-popup-login.php:902
+msgid "Enable reCAPTCHA"
+msgstr ""
+
+#: ocean-popup-login.php:926
+msgid "Enable nonce"
+msgstr ""
+
+#: ocean-popup-login.php:927
+msgid "Use only one security method. By default, the nonce security method is sufficient for protection. If you experience issues with this method caused by your caching plugin (Session token expired), you can use the Google reCaptcha method instead."
+msgstr ""
+
+#: ocean-popup-login.php:950
+msgid "Password Security Options"
+msgstr ""
+
+#: ocean-popup-login.php:973
+msgid "Enforce Secure Password Usage"
+msgstr ""
+
+#: ocean-popup-login.php:974
+msgid "When enabled, users will be opted to use passwords between 8 and 50 characters long."
+msgstr ""
+
+#: ocean-popup-login.php:998
+msgid "Passwords must contain digits"
+msgstr ""
+
+#: ocean-popup-login.php:999
+msgid "When enabled, users will be forced to insert at least one digit into the password."
+msgstr ""
+
+#: ocean-popup-login.php:1023
+msgid "Passwords must contain small letters"
+msgstr ""
+
+#: ocean-popup-login.php:1024
+msgid "When enabled, users will be forced to insert at least one small letter into the password."
+msgstr ""
+
+#: ocean-popup-login.php:1048
+msgid "Passwords must contain capital letters"
+msgstr ""
+
+#: ocean-popup-login.php:1049
+msgid "When enabled, users will be forced to insert at least one capital letter into the password."
+msgstr ""
+
+#: ocean-popup-login.php:1073
+msgid "Passwords must contain symbols"
+msgstr ""
+
+#: ocean-popup-login.php:1074
+msgid "When enabled, users will be forced to insert at least one special character into the password."
+msgstr ""
+
+#: ocean-popup-login.php:1098
+msgid "Blocking Options"
+msgstr ""
+
+#: ocean-popup-login.php:1121
+msgid "Enable Attempts Blocking"
+msgstr ""
+
+#: ocean-popup-login.php:1122
+msgid "When enabled, users will be blocked if entered invalid credentials several times."
+msgstr ""
+
+#: ocean-popup-login.php:1143
+msgid "Number of Invalid Attempts"
+msgstr ""
+
+#: ocean-popup-login.php:1170
+msgid "Minutes to be blocked"
+msgstr ""
+
+#: ocean-popup-login.php:1199
+msgid "Lost Password Form"
+msgstr ""
+
+#: ocean-popup-login.php:1212
+#: template/popup.php:42
+msgid "Reset password"
+msgstr ""
+
+#: ocean-popup-login.php:1237
+#: template/popup.php:44
+msgid "Recover your password"
+msgstr ""
+
+#: ocean-popup-login.php:1273
+msgid "Styling"
+msgstr ""
+
+#: ocean-popup-login.php:1436
+msgid "Padding (px)"
+msgstr ""
+
+#: ocean-popup-login.php:1568
+msgid "Border Radius (px)"
+msgstr ""
+
+#: ocean-popup-login.php:1610
+msgid "Background Image"
+msgstr ""
+
+#: ocean-popup-login.php:1638
+msgid "Form Background Color"
+msgstr ""
+
+#: ocean-popup-login.php:1662
+msgid "Site Overlay Color"
+msgstr ""
+
+#: ocean-popup-login.php:1686
+msgid "Title Color"
+msgstr ""
+
+#: ocean-popup-login.php:1710
+msgid "Content Color"
+msgstr ""
+
+#: ocean-popup-login.php:1734
+msgid "Input Color"
+msgstr ""
+
+#: ocean-popup-login.php:1758
+msgid "Input Border Color"
+msgstr ""
+
+#: ocean-popup-login.php:1782
+msgid "Input Border Focus Color"
+msgstr ""
+
+#: ocean-popup-login.php:1806
+msgid "Remember Me Color"
+msgstr ""
+
+#: ocean-popup-login.php:1830
+msgid "Button Background Color"
+msgstr ""
+
+#: ocean-popup-login.php:1854
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: ocean-popup-login.php:1878
+msgid "Button Color"
+msgstr ""
+
+#: ocean-popup-login.php:1902
+msgid "Forgot Password Color"
+msgstr ""
+
+#: ocean-popup-login.php:1926
+msgid "Bottom Background Color"
+msgstr ""
+
+#: ocean-popup-login.php:1950
+msgid "Bottom Color"
+msgstr ""
+
+#: ocean-popup-login.php:1974
+msgid "Bottom Button Background Color"
+msgstr ""
+
+#: ocean-popup-login.php:1998
+msgid "Bottom Button Color"
+msgstr ""
+
+#: ocean-popup-login.php:2021
+msgid "Bottom Button Background Color: hover"
+msgstr ""
+
+#: ocean-popup-login.php:2044
+msgid "Bottom Button Color: hover"
+msgstr ""
+
+#: ocean-popup-login.php:2066
+msgid "Privacy Policy"
+msgstr ""
+
+#: ocean-popup-login.php:2067
+msgid "You need to select your Privacy Policy page in Settings > Privacy."
+msgstr ""
+
+#: ocean-popup-login.php:2090
+msgid "Color"
+msgstr ""
+
+#: ocean-popup-login.php:2113
+msgid "Color: Hover"
+msgstr ""
+
+#: ocean-popup-login.php:2273
+#: ocean-popup-login.php:2409
+#: ocean-popup-login.php:2736
+msgid "Session token has expired, please reload the page and try again"
+msgstr ""
+
+#: ocean-popup-login.php:2289
+#: ocean-popup-login.php:2426
+msgid "Invalid reCAPTCHA secret key."
+msgstr ""
+
+#: ocean-popup-login.php:2293
+#: ocean-popup-login.php:2430
+msgid "Please check the box to prove that you are not a robot."
+msgstr ""
+
+#: ocean-popup-login.php:2297
+#: ocean-popup-login.php:2434
+msgid "Unable to reach the reCAPTCHA server."
+msgstr ""
+
+#: ocean-popup-login.php:2314
+#: ocean-popup-login.php:2750
+msgid "Please fill all form fields"
+msgstr ""
+
+#: ocean-popup-login.php:2347
+msgid "ERROR: Username or password incorrect!"
+msgstr ""
+
+#: ocean-popup-login.php:2358
+msgid "Login successful, reloading page..."
+msgstr ""
+
+#: ocean-popup-login.php:2452
+#: ocean-popup-login.php:2480
+msgid "Invalid username"
+msgstr ""
+
+#: ocean-popup-login.php:2466
+msgid "Username already taken"
+msgstr ""
+
+#: ocean-popup-login.php:2509
+msgid "Invalid email"
+msgstr ""
+
+#: ocean-popup-login.php:2523
+msgid "Email address already taken"
+msgstr ""
+
+#: ocean-popup-login.php:2537
+msgid "Please enter a password"
+msgstr ""
+
+#: ocean-popup-login.php:2551
+msgid "Passwords do not match"
+msgstr ""
+
+#: ocean-popup-login.php:2565
+msgid "Password must be between 8 and 50 characters long."
+msgstr ""
+
+#: ocean-popup-login.php:2579
+msgid "Password must contain at least one digit."
+msgstr ""
+
+#: ocean-popup-login.php:2593
+msgid "Password must contain at least one small letter."
+msgstr ""
+
+#: ocean-popup-login.php:2607
+msgid "Password must contain at least one capital letter."
+msgstr ""
+
+#: ocean-popup-login.php:2621
+msgid "Password must contain at least one special character."
+msgstr ""
+
+#: ocean-popup-login.php:2635
+msgid "Please check the agreement box to continue"
+msgstr ""
+
+#: ocean-popup-login.php:2664
+msgid "Error on user creation."
+msgstr ""
+
+#: ocean-popup-login.php:2675
+msgid "Hi there,"
+msgstr ""
+
+#: ocean-popup-login.php:2676
+msgid "Welcome to %s! Here's how to log in:"
+msgstr ""
+
+#: ocean-popup-login.php:2678
+#: ocean-popup-login.php:2855
+msgid "Username: %s"
+msgstr ""
+
+#: ocean-popup-login.php:2679
+msgid "Email: %s"
+msgstr ""
+
+#: ocean-popup-login.php:2680
+msgid "Password: The one you entered in the registration form. (For security reason, we save encripted password)"
+msgstr ""
+
+#: ocean-popup-login.php:2681
+msgid "If you have any problems, please contact me at %s."
+msgstr ""
+
+#: ocean-popup-login.php:2682
+msgid "Thank you!"
+msgstr ""
+
+#: ocean-popup-login.php:2684
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: ocean-popup-login.php:2689
+msgid "Registration complete, reloading page..."
+msgstr ""
+
+#: ocean-popup-login.php:2782
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: ocean-popup-login.php:2807
+msgid "Please enter a username or e-mail address."
+msgstr ""
+
+#: ocean-popup-login.php:2811
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: ocean-popup-login.php:2823
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: ocean-popup-login.php:2835
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: ocean-popup-login.php:2853
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ocean-popup-login.php:2856
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ocean-popup-login.php:2857
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ocean-popup-login.php:2866
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: ocean-popup-login.php:2871
+msgid "The e-mail could not be sent. Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: ocean-popup-login.php:2972
+msgid "This Username is forbidden. Choose a different one."
+msgstr ""
+
+#: ocean-popup-login.php:2978
+msgid "Username can not contain spaces"
+msgstr ""
+
+#: ocean-popup-login.php:2985
+msgid "Username should be min %1$s and max %2$s symbols"
+msgstr ""
+
+#: template/popup.php:80
+msgid "Enter your username to log in"
+msgstr ""
+
+#: template/popup.php:81
+msgid "Username"
+msgstr ""
+
+#: template/popup.php:87
+msgid "Enter your password to log in"
+msgstr ""
+
+#: template/popup.php:88
+#: template/popup.php:206
+msgid "Password"
+msgstr ""
+
+#: template/popup.php:96
+msgid "Remember Me"
+msgstr ""
+
+#: template/popup.php:114
+#: template/popup.php:239
+msgid "Loading..."
+msgstr ""
+
+#: template/popup.php:114
+#: template/popup.php:335
+msgid "Login"
+msgstr ""
+
+#: template/popup.php:121
+msgid "Forgot your password? Get help"
+msgstr ""
+
+#: template/popup.php:138
+#: template/popup.php:147
+msgid "Or log in with"
+msgstr ""
+
+#: template/popup.php:158
+msgid "Not a member?"
+msgstr ""
+
+#: template/popup.php:159
+msgid "Sign up"
+msgstr ""
+
+#: template/popup.php:192
+msgid "Your username"
+msgstr ""
+
+#: template/popup.php:199
+msgid "Your email"
+msgstr ""
+
+#: template/popup.php:213
+msgid "Confirm Password"
+msgstr ""
+
+#: template/popup.php:239
+msgid "Register"
+msgstr ""
+
+#: template/popup.php:255
+#: template/popup.php:264
+msgid "Or register with"
+msgstr ""
+
+#: template/popup.php:276
+msgid "Already a member?"
+msgstr ""
+
+#: template/popup.php:277
+msgid "Sign in"
+msgstr ""
+
+#: template/popup.php:305
+msgid "Enter your username or email for password recovery"
+msgstr ""
+
+#: template/popup.php:306
+msgid "Username or E-mail"
+msgstr ""
+
+#: template/popup.php:313
+msgid "Sending..."
+msgstr ""
+
+#: template/popup.php:313
+msgid "Request Reset Password Link"
+msgstr ""
+
+#: template/popup.php:320
+msgid "A password reset link will be e-mailed to you."
+msgstr ""
+
+#: template/popup.php:334
+msgid "Back to"
+msgstr ""

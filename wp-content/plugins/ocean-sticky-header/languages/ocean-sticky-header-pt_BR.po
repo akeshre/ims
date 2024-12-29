@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Sticky Header\n"
+"POT-Creation-Date: 2023-10-17 03:37-0300\n"
+"PO-Revision-Date: 2023-12-05 01:49-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ocean-sticky-header.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: ocean-sticky-header.php:163 ocean-sticky-header.php:172
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando, hein?"
+
+#: ocean-sticky-header.php:295 ocean-sticky-header.php:1025
+#: ocean-sticky-header.php:1057 ocean-sticky-header.php:2159
+msgid "Sticky Header"
+msgstr "Cabeçalho fixo"
+
+#: ocean-sticky-header.php:316
+msgid "Sticky"
+msgstr "Fixação"
+
+#: ocean-sticky-header.php:317
+#, php-format
+msgid ""
+"This option has been designed for the Custom Header style. %1$sLearn "
+"more%2$s."
+msgstr ""
+"Esta opção foi projetada para o estilo de cabeçalho personalizado. "
+"%1$sAprenda mais%2$s."
+
+#: ocean-sticky-header.php:322
+msgid "Auto"
+msgstr "Automático"
+
+#: ocean-sticky-header.php:323
+msgid "Manual"
+msgstr "Manual"
+
+#: ocean-sticky-header.php:345 ocean-sticky-header.php:1035
+msgid "Sticky Top Bar"
+msgstr "Barra superior fixa"
+
+#: ocean-sticky-header.php:370
+msgid "Sticky Mobile"
+msgstr "Fixo em dispositivos móveis"
+
+#: ocean-sticky-header.php:395
+msgid "Full Width Scrolling"
+msgstr "Largura total ao rolar"
+
+#: ocean-sticky-header.php:421
+msgid "No Shadow When Scrolling"
+msgstr "Sem sombra ao rolar"
+
+#: ocean-sticky-header.php:446 ocean-sticky-header.php:1079
+msgid "Sticky Style"
+msgstr "Estilo de fixação"
+
+#: ocean-sticky-header.php:474 ocean-sticky-header.php:1102
+msgid "Sticky Effect"
+msgstr "Efeitos de fixação"
+
+#: ocean-sticky-header.php:475
+msgid "Do not work with all header styles."
+msgstr "Não funciona com todos os estilos de cabeçalho."
+
+#: ocean-sticky-header.php:481 ocean-sticky-header.php:1105
+msgid "No Effect"
+msgstr "Sem efeitos"
+
+#: ocean-sticky-header.php:482 ocean-sticky-header.php:1106
+msgid "Slide"
+msgstr "Deslizamento"
+
+#: ocean-sticky-header.php:483 ocean-sticky-header.php:1107
+msgid "Show Up/Hide Down"
+msgstr "Mostrar/Ocultar"
+
+#: ocean-sticky-header.php:505
+msgid "Sticky Height"
+msgstr "Altura da fixação"
+
+#: ocean-sticky-header.php:614
+msgid "Sticky Padding (px)"
+msgstr "Preenchimento da fixação (px)"
+
+#: ocean-sticky-header.php:657
+msgid "Sticky Opacity"
+msgstr "Opacidade da fixação"
+
+#: ocean-sticky-header.php:685 ocean-sticky-header.php:1124
+msgid "Logo"
+msgstr "Logo"
+
+#: ocean-sticky-header.php:707
+msgid "Sticky Logo"
+msgstr "Logo fixo"
+
+#: ocean-sticky-header.php:708
+msgid "If you want to display a different logo when scrolling (optional)"
+msgstr "Se desejar exibir um logo diferente ao rolar (opcional)"
+
+#: ocean-sticky-header.php:731
+msgid "Sticky Retina Logo"
+msgstr "Logo de alta resolução (retina) fixo"
+
+#: ocean-sticky-header.php:756
+msgid "Logo Height On Sticky"
+msgstr "Altura do logo na fixação"
+
+#: ocean-sticky-header.php:786
+msgid "Styling"
+msgstr "Estilização"
+
+#: ocean-sticky-header.php:809 ocean-sticky-header.php:1179
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: ocean-sticky-header.php:833 ocean-sticky-header.php:1196
+msgid "Links Color"
+msgstr "Cor dos links"
+
+#: ocean-sticky-header.php:857 ocean-sticky-header.php:1213
+msgid "Links Color: Hover"
+msgstr "Cor dos links: Ao passar o mouse"
+
+#: ocean-sticky-header.php:881 ocean-sticky-header.php:1230
+msgid "Current Menu Item Color"
+msgstr "Cor do item de menu atual"
+
+#: ocean-sticky-header.php:905 ocean-sticky-header.php:1247
+msgid "Links Background Color"
+msgstr "Cor de fundo dos links"
+
+#: ocean-sticky-header.php:929 ocean-sticky-header.php:1264
+msgid "Links Background Color: Hover"
+msgstr "Cor de fundo dos links: Ao passar o mouse"
+
+#: ocean-sticky-header.php:953 ocean-sticky-header.php:1281
+msgid "Current Menu Item Background"
+msgstr "Fundo do item de menu atual"
+
+#: ocean-sticky-header.php:977 ocean-sticky-header.php:1298
+msgid "Simple Social Links Color"
+msgstr "Cor dos links simples de redes sociais"
+
+#: ocean-sticky-header.php:1002 ocean-sticky-header.php:1315
+msgid "Simple Social Links Color: Hover"
+msgstr "Cor dos links simples de redes sociais: Ao passar o mouse"
+
+#: ocean-sticky-header.php:1036
+msgid "Disable the sticky top bar on this page/post."
+msgstr "Desative a barra superior fixa nesta página/post."
+
+#: ocean-sticky-header.php:1038 ocean-sticky-header.php:1060
+#: ocean-sticky-header.php:1082
+msgid "Default"
+msgstr "Padrão"
+
+#: ocean-sticky-header.php:1039 ocean-sticky-header.php:1061
+msgid "Disable"
+msgstr "Desativar"
+
+#: ocean-sticky-header.php:1058
+msgid "Disable the sticky header on this page/post."
+msgstr "Desative o cabeçalho fixo nesta página/post."
+
+#: ocean-sticky-header.php:1080
+msgid "Choose your sticky style on this page/post."
+msgstr "Escolha o seu estilo de fixação nesta página/post."
+
+#: ocean-sticky-header.php:1083
+msgid "Shrink"
+msgstr "Encolher"
+
+#: ocean-sticky-header.php:1084
+msgid "Fixed"
+msgstr "Fixo"
+
+#: ocean-sticky-header.php:1103
+msgid "Select your sticky effect. Do not work with all header styles."
+msgstr ""
+"Selecione o efeito de fixação. Não funciona com todos os estilos de "
+"cabeçalho."
+
+#: ocean-sticky-header.php:1125
+msgid "Select a custom sticky logo on this page/post."
+msgstr "Selecione um logo personalizado para fixação nesta página/post."
+
+#: ocean-sticky-header.php:1141
+msgid "Retina Logo"
+msgstr "Logo de alta resolução (retina)"
+
+#: ocean-sticky-header.php:1142
+msgid "Select a custom retina sticky logo on this page/post."
+msgstr ""
+"Selecione um logo personalizado de alta resolução (retina) para fixação "
+"nesta página/post."
+
+#: ocean-sticky-header.php:1158
+msgid "Logo Height On Sticky (px)"
+msgstr "Altura do logo quando fixado (px)"
+
+#: ocean-sticky-header.php:1159
+msgid "Enter the height of your logo when you scroll."
+msgstr "Digite a altura do seu logo ao rolar."
+
+#: ocean-sticky-header.php:1180
+msgid "Select a color. Hex code, ex: #555"
+msgstr "Selecione uma cor. Código hexadecimal, por exemplo: #555"
+
+#: ocean-sticky-header.php:1197 ocean-sticky-header.php:1265
+#: ocean-sticky-header.php:1299
+msgid "Select a color. Hex code, ex: #fff"
+msgstr "Selecione uma cor. Código hexadecimal, por exemplo: #fff"
+
+#: ocean-sticky-header.php:1214 ocean-sticky-header.php:1282
+#: ocean-sticky-header.php:1316
+msgid "Select a color. Hex code, ex: #13aff0"
+msgstr "Selecione uma cor. Código hexadecimal, por exemplo: #13aff0"
+
+#: ocean-sticky-header.php:1231 ocean-sticky-header.php:1248
+msgid "Select a color. Hex code, ex: #333"
+msgstr "Selecione uma cor. Código hexadecimal, por exemplo: #333"
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Sticky Header"
+msgstr "Ocean Sticky Header"
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-sticky-header/"
+msgstr "https://oceanwp.org/extension/ocean-sticky-header/"
+
+#. Description of the plugin/theme
+msgid ""
+"A simple extension to attach the header at the top of your screen with an "
+"animation."
+msgstr ""
+"Uma extensão simples para fixar o cabeçalho na parte superior da tela com "
+"uma animação."
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
